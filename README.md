@@ -37,4 +37,4 @@
 <hr />
 
 <h2>🎯 Objetivo</h2>
-<p>Estoy en búsqueda de <strong>oportunidades</strong> que me permitan <strong>aplicar y ampliar mis conocimientos</strong>, mientras aporto al desarrollo de <strong>proyectos innovadores</strong> en el se
+<p>Estoy en búsqueda de <strong>oportunidades</strong> que me permitan <strong>aplicar y ampliar mis conocimientos</strong>, mientras aporto al desarrollo de <strong>proyectos innovadores</strong> en el sector tecnológico. Siempre estoy abierto a colaborar, aprender y crecer profesionalmente junto a otros apasionados por la tecnología.</p>
